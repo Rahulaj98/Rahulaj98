@@ -8,7 +8,7 @@ Python, SQL, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Beaut
 
 ### Projects:
 - [Exploratory Data Analysis of Gun Violence Incidents in the USA](https://jovian.com/rahulajvit/eda-project-guns-usa)
-- [Data Visualisation and Analysis of Bookshop data using Tableau](https://public.tableau.com/shared/44SYZBTNS?:display_count=n&:origin=viz_share_link)
+- [Data Visualisation and Analysis of Bookshop data using Tableau](https://public.tableau.com/shared/8DPH3GGWJ?:display_count=n&:origin=viz_share_link)
 - [SQL Querying with Chinook Database](https://jovian.com/rahulajvit/merged-sql-assignments)
 - [Scraping popular blog details from SvN](https://github.com/Rahulaj98/Web-scraping-Project.git)
 
