@@ -1,7 +1,7 @@
 ### Hi I'm Rahul A 👋
 
 ### About me:
-I am working as a Junior Software Engineer at Infobell IT, Bengaluru after an MTech from __IISc Bengaluru__. I enjoy learning and working on data science, machine learning, and deep learning problems.
+I am working as a Junior Software Engineer at __Infobell IT, Bengaluru__ after an MTech from __IISc Bengaluru__. I enjoy learning and working on data science, machine learning, and deep learning problems.
 
 ### Skills:
 Python, SQL, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Beautifulsoup, MS Excel, Postman, Tableau, Git, Docker, Linux
