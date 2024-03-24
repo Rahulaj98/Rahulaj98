@@ -1,10 +1,10 @@
 ### Hi I'm Rahul A 👋
 
 ### About me:
-I am pursuing MTech from __IISc Bengaluru__ after BTech from VIT Vellore. I am currently pursuing a Data science bootcamp from __Jovian__. I enjoy learning data science, machine learning, and deep learning.
+I am working as a Junior Software Engineer at Infobell IT, Bengaluru after an MTech from __IISc Bengaluru__. I enjoy learning and working on data science, machine learning, and deep learning problems.
 
 ### Skills:
-Python, SQL, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Beautifulsoup, Power BI, MS Excel, Postman, Tableau, Git
+Python, SQL, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Beautifulsoup, MS Excel, Postman, Tableau, Git, Docker, Linux
 
 ### Projects:
 - [Exploratory Data Analysis of Gun Violence Incidents in the USA](https://jovian.com/rahulajvit/eda-project-guns-usa)
